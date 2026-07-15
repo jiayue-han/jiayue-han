@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Jiayue Han 👋
 
-<!--
-**jiayue-han/jiayue-han** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Background
 
-Here are some ideas to get you started:
+- 🎓 **Education**
+  - **Westlake University** — PhD Candidate in Chemistry, Aug 2023 – Present (Supervisor: Prof. Wenjie Dou)
+  - **Central South University** — B.Eng. in Materials Science and Engineering, Sep 2018 – Jun 2022
+- 💼 **Professional Experience**
+  - **CNGR Advanced Material Co., Ltd.**
+    - R&D Engineer, Jan 2023 – Jun 2023
+    - R&D Intern, Jul 2022 – Dec 2022
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Research and Career Interests
+
+- 🔬 **Current research:** Theoretical and computational chemistry, with a focus on developing and applying nonadiabatic dynamics approaches to investigate chiral-induced spin selectivity and light–matter interactions. My work has been published in journals including *J. Chem. Phys.*, *J. Chem. Theory Comput.*, *J. Phys. Chem. Lett.*, and *J. Phys. Chem. C*.
+- 🚀 **Future direction:** I plan to pursue research in AI for Materials and am seeking postdoctoral or industry R&D positions in this field.
+
+## Contact and Links
+
+- 📧 **Email:** [jiayue.han@hotmail.com](mailto:jiayue.han@hotmail.com)
+- 📍 **Address:** No. 600 Dunyu Road, Xihu District, Hangzhou, Zhejiang 310030, P.R. China
+- 🔎 **Google Scholar:** [Jiayue Han](https://scholar.google.com.hk/citations?hl=zh-CN&user=Pp6SPhYAAAAJ)
+- 📄 **Curriculum Vitae:** Coming soon
