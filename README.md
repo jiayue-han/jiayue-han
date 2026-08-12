@@ -6,13 +6,11 @@
   - **Westlake University** — PhD Candidate in Chemistry, Aug 2023 – Present (Supervisor: Prof. Wenjie Dou)
   - **Central South University** — B.Eng. in Materials Science and Engineering, Sep 2018 – Jun 2022
 - 💼 **Professional Experience**
-  - **CNGR Advanced Material Co., Ltd.**
-    - R&D Engineer, Jan 2023 – Jun 2023
-    - R&D Intern, Jul 2022 – Dec 2022
+  - **CNGR Advanced Material Co., Ltd.** — R&D Engineer, Feb 2023 – Apr 2023
 
 ## Research and Career Interests
 
-- 🔬 **Current research:** Theoretical and computational chemistry, with a focus on developing and applying nonadiabatic dynamics approaches to investigate chiral-induced spin selectivity and light–matter interactions. My work has been published in journals including *J. Chem. Phys.*, *J. Chem. Theory Comput.*, *J. Phys. Chem. Lett.*, and *J. Phys. Chem. C*.
+- 🔬 **Current research:** Theoretical and computational chemistry, with a focus on developing and applying nonadiabatic dynamics approaches to investigate chiral-induced spin selectivity and light–matter interactions.
 - 🚀 **Future direction:** I plan to pursue research in AI for Materials and am seeking postdoctoral or industry R&D positions in this field.
 
 ## Contact and Links
